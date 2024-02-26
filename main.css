@@ -1,0 +1,29 @@
+/* Selectores */
+
+/* Selectores de tipo */
+
+/* Selectores de clase */
+
+/* Selectores de id */
+
+/* Selectores de atributo */
+
+/* Selectores de pseudoclase */
+
+/* Selectores de pseudoelemento */
+
+/* Selectores combinados */
+
+/* Selectores agrupados */
+
+/* Selectores anidados */
+#p1 {
+    background-color: blue;
+    color: rebeccapurple
+  }
+
+
+.frutas {
+  color: red !important;
+}
+
